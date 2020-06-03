@@ -14,3 +14,4 @@ p_number,screen_size,t1_type,t1_isSuccess,t1_numWords,t2_type,t2_isSuccess,t2_nu
 13,Small,C,True,4,C,True,5,C,True,4,C,True,10,C,True,5,C,True,5,C,True,5,C,True,5,C,True,9,C,True,7
 15,Large,C,True,5,C,True,6,C,True,6,C,True,5,C,True,9,C,True,7,C,True,5,C,True,3,C,True,13,C,True,7
 16,Small,F,True,4,F,True,4,F,True,4,C,True,6,C,True,7,C,True,5,F,True,4,C,True,4,C,True,10,C,True,3
+18,Large,F,True,3,F,True,5,F,True,3,F,True,7,C,True,7,F,True,5,C,True,5,C,True,2,C,True,2,C,True,7
