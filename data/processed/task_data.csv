@@ -1,17 +1,17 @@
-p_number,screen_size,t1_type,t1_isSuccess,t1_numWords,t2_type,t2_isSuccess,t2_numWords,t3_type,t3_isSuccess,t3_numWords,t4_type,t4_isSuccess,t4_numWords,t5_type,t5_isSuccess,t5_numWords,t6_type,t6_isSuccess,t6_numWords,t7_type,t7_isSuccess,t7_numWords,t8_type,t8_isSuccess,t8_numWords,t9_type,t9_isSuccess,t9_numWords,t10_type,t10_isSuccess,t10_numWords
-1,Small,C,True,6,F,True,4,F,True,4,C,True,5,C,True,3,C,True,6,C,True,4,C,True,2,C,True,11,F,True,2
-2,Medium,C,True,7,C,True,7,C,True,5,C,True,6,C,True,9,C,True,6,C,True,5,C,True,3,C,False,2,C,True,7
-3,Large,F,True,3,F,True,4,F,True,4,C,True,7,F,True,2,F,True,4,C,True,3,C,True,2,F,True,8,C,True,3
-4,Small,C,True,3,C,True,6,C,True,5,C,True,6,C,True,3,S,False,1,S,True,1,F,True,2,I,False,0,C,True,3
-5,Medium,C,True,4,F,True,4,F,True,5,C,True,6,C,True,6,C,True,6,S,True,1,C,True,4,C,False,5,F,True,3
-6,Large,F,True,6,C,True,5,F,True,4,F,True,5,F,True,6,F,True,6,F,True,6,C,True,2,C,True,2,F,True,8
-7,Small,F,True,3,F,True,4,C,True,5,C,True,6,C,True,7,C,True,6,C,True,6,C,True,2,C,True,13,F,True,5
-8,Medium,F,True,4,F,True,3,F,True,2,F,True,8,C,True,7,F,True,5,F,True,5,C,True,2,F,True,11,F,True,6
-9,Large,C,True,6,C,True,6,C,True,4,F,True,5,C,True,4,C,True,7,C,True,4,C,True,5,C,True,11,C,True,6
-10,Small,F,True,4,F,True,3,F,True,4,F,True,5,F,True,4,C,True,7,F,True,4,C,True,2,F,True,7,C,True,6
-11,Medium,C,True,6,C,True,6,C,True,9,C,True,7,C,True,8,C,True,6,C,True,7,C,True,2,C,True,11,C,True,6
-12,Large,C,True,5,F,True,3,C,True,5,C,True,8,C,True,7,C,True,6,C,True,4,C,True,4,C,True,3,C,True,5
-13,Small,C,True,4,C,True,5,C,True,4,C,True,10,C,True,5,C,True,5,C,True,5,C,True,5,C,True,9,C,True,7
-15,Large,C,True,5,C,True,6,C,True,6,C,True,5,C,True,9,C,True,7,C,True,5,C,True,3,C,True,13,C,True,7
-16,Small,F,True,4,F,True,4,F,True,4,C,True,6,C,True,7,C,True,5,F,True,4,C,True,4,C,True,10,C,True,3
-18,Large,F,True,3,F,True,5,F,True,3,F,True,7,C,True,7,F,True,5,C,True,5,C,True,2,C,True,2,C,True,7
+p_number,major,screen_size,t1_type,t1_isSuccess,t1_numWords,t2_type,t2_isSuccess,t2_numWords,t3_type,t3_isSuccess,t3_numWords,t4_type,t4_isSuccess,t4_numWords,t5_type,t5_isSuccess,t5_numWords,t6_type,t6_isSuccess,t6_numWords,t7_type,t7_isSuccess,t7_numWords,t8_type,t8_isSuccess,t8_numWords,t9_type,t9_isSuccess,t9_numWords,t10_type,t10_isSuccess,t10_numWords
+1,Education,Small,C,True,6,F,True,4,F,True,4,C,True,5,C,True,3,C,True,6,C,True,4,C,True,2,C,True,11,F,True,2
+2,Computer Science,Medium,C,True,7,C,True,7,C,True,5,C,True,6,C,True,9,C,True,6,C,True,5,C,True,3,C,False,2,C,True,7
+3,Education,Large,F,True,3,F,True,4,F,True,4,C,True,7,F,True,2,F,True,4,C,True,3,C,True,2,F,True,8,C,True,3
+4,Education,Small,C,True,3,C,True,6,C,True,5,C,True,6,C,True,3,S,False,1,S,True,1,F,True,2,I,False,0,C,True,3
+5,Education,Medium,C,True,4,F,True,4,F,True,5,C,True,6,C,True,6,C,True,6,S,True,1,C,True,4,C,False,5,F,True,3
+6,Computer Science,Large,F,True,6,C,True,5,F,True,4,F,True,5,F,True,6,F,True,6,F,True,6,C,True,2,C,True,2,F,True,8
+7,Education,Small,F,True,3,F,True,4,C,True,5,C,True,6,C,True,7,C,True,6,C,True,6,C,True,2,C,True,13,F,True,5
+8,Computer Science,Medium,F,True,4,F,True,3,F,True,2,F,True,8,C,True,7,F,True,5,F,True,5,C,True,2,F,True,11,F,True,6
+9,Computer Science,Large,C,True,6,C,True,6,C,True,4,F,True,5,C,True,4,C,True,7,C,True,4,C,True,5,C,True,11,C,True,6
+10,Education,Small,F,True,4,F,True,3,F,True,4,F,True,5,F,True,4,C,True,7,F,True,4,C,True,2,F,True,7,C,True,6
+11,Computer Science,Medium,C,True,6,C,True,6,C,True,9,C,True,7,C,True,8,C,True,6,C,True,7,C,True,2,C,True,11,C,True,6
+12,Education,Large,C,True,5,F,True,3,C,True,5,C,True,8,C,True,7,C,True,6,C,True,4,C,True,4,C,True,3,C,True,5
+13,Education,Small,C,True,4,C,True,5,C,True,4,C,True,10,C,True,5,C,True,5,C,True,5,C,True,5,C,True,9,C,True,7
+15,Education,Large,C,True,5,C,True,6,C,True,6,C,True,5,C,True,9,C,True,7,C,True,5,C,True,3,C,True,13,C,True,7
+16,Education,Small,F,True,4,F,True,4,F,True,4,C,True,6,C,True,7,C,True,5,F,True,4,C,True,4,C,True,10,C,True,3
+18,Computer Science,Large,F,True,3,F,True,5,F,True,3,F,True,7,C,True,7,F,True,5,C,True,5,C,True,2,C,True,2,C,True,7
